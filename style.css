@@ -1,0 +1,32 @@
+div.static{
+    background-color: black;
+    
+    position: static;
+}
+
+.staticd{
+    background-color: aqua;
+    position: static;
+    width: 150px;
+
+}
+
+.fixed{
+    background-color: blueviolet;
+    position: fixed;
+    left: 150px;
+}
+
+.absolute{
+background-color: brown;
+position: absolute;
+left: 500px;
+
+
+}
+
+.block{ background-color: chocolate ;
+width: 600px;
+height: 600px;
+left: 1600px;
+}
